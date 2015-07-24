@@ -1,6 +1,6 @@
 ﻿# Tehtävät ja palautus
 
-**Deadline on palautuksille torstaisin klo 23:59 ja loppupalautukselle torstaina 18.6. klo 23:59**
+**Deadline on palautuksille torstaisin klo 23:59 ja loppupalautukselle torstaina 3.9. klo 23:59**
 
 Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse meneillään oleva kurssi Javalabra2015-6**
 
