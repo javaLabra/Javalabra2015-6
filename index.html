@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Javalabra</title>
+
+        <!-- Bootstrap -->
+        <link href="app/css/bootstrap.min.css" rel="stylesheet">
+        <link href="app/css/app.css" rel="stylesheet">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body ng-app="jlApp">
+        <div ui-view></div>
+
+        <script type="text/ng-template" id="main.html">
+            {{links}}
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-9">
+                        <div ng-repeat="page in pages" ng-bind-html="page.content" ng-show="isActive(page.href)"></div>
+                    </div>
+                    <div class="col-xs-3">
+                        <ul class="nav nav-pills nav-stacked">
+                            <li ng-repeat="page in pages" ng-class="{active: isActive(page.href)}"><a ui-sref="page({page: page.href})">{{page.href|filename}}</a></li>
+                        </ul>
+                    </div>
+                </div>
+        </script>
+
+        <script src="app/js/lib/angular.min.js"></script>
+        <script src="app/js/lib/angular-ui-router.min.js"></script>
+        <script src="app/js/lib/angular-sanitize.min.js"></script>
+        <script src="app/js/lib/marked.js"></script>
+        <script src="app/js/lib/URI.js"></script>
+        <!--
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="app/js/lib/bootstrap.min.js"></script>
+        -->
+        <script src="app/js/app.js"></script>
+        <script src="app/js/controllers/main.js"></script>
+        <script src="app/js/services/markdown.js"></script>
+        <script src="app/js/services/page.js"></script>
+        <script src="app/js/filters/filename.js"></script>
+    </body>
+</html>
