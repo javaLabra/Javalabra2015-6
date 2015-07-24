@@ -32,10 +32,10 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **31** <br> 27.7-2.8 |  -  |  -  |  -  |  **Palautus 1** <br> klo. 23:59 |  -  |  -  |  -  |
+| **31** <br> 27.7-2.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 1** <br> klo. 23:59 |  -  |  -  |  -  |
 | **32** <br> 3.-9.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 2** <br> klo. 23:59 |  -  |  -  |  -  |
 | **33** <br> 10.-16.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 3** <br> klo. 23:59 |  -  |  -  |**Katselmointi 1** <br> klo: 23:59  |
 | **34** <br> 17.-23.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 4** <br> klo. 23:59 |  -  |  -  |  -  |
 | **35** <br> 24.-30.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 5** <br> klo. 23:59 |  -  |  -  |**Katselmointi 2** <br> klo: 23:59  |
-| **36** <br> 31.8-6.9 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16| **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |  -  |
+| **36** <br> 31.8-6.9 |  -  |  -  |  -  | **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |  -  |
 *Paja-ajat eivät lopullisia.
