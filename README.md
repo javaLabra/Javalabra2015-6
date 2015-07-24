@@ -13,8 +13,7 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Antti Haapaniemi (Pallero_)
-* Hilla Fred (hihihi_)
+* Nikke Kostiainen (NikG)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
@@ -25,22 +24,17 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* (20.05.) Demotilaisuuksien ajankohdat päätetty (yhteen tulee osallistua): 15.6. klo 14-16 ja 16-18, 16.6. klo 14-16 ja 16-18, ilmottautuminen ja luokat ilmoitetaan sähköpostilla kurssin loppupuolella.
-
-* (12.05.) Etäopintoja suorittaville kirjoitettu pieni osuus [yleistä](ohjeet/Yleistä.md)-kohtaan.
-
-* **(11.05.) Pajaohjauksien luokka muuttui! Uusi luokka BK107.**
-
-* Aloitusluento maanantaina 11.5 klo 16-18 luokassa B119, läsnäolo pakollinen!
+* Aloitusluento maanantaina 27.7 klo 14-16 luokassa B221, läsnäolo pakollinen!
 
 ### Aikataulu
 
-Pajaa tarjolla alla ilmoitettuina aikoina. Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta.
+Pajan tarkempi aikataulu määritellään kurssin alkaessa. Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta.
 
-| klo   | ma  | ti    | ke   | to       | pe    | 
-| ---   | --- | ---   | ---  | ---      | ---   | 
-|14-16  | -   | -     | PAJA | -        | -     |
-|16-18  | -   | PAJA  | -    | PAJA     | -     |
-| 23:59 | -   | -     | -    | DL (23:59)        | -     | 
-
-Pajaohjausta ei pidetä helatorstaina 14.05.
+| Viikko | ma | ti | ke | to | pe | la | su |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **31** <br> 27.7-2.8 |  -  |  -  |  -  |  **Palautus 1** <br> klo. 23:59 |  -  |  -  |  -  |
+| **32** <br> 3.-9.8 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA***<br>klo.14-16<br>|  -  |  -  |  **Palautus 2** <br> klo. 23:59 |
+| **33** <br> 10.-16.8 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.14-16|  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
+| **34** <br> 17.-23.8 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA***<br>klo.14-16|  -  |  -  |  **Palautus 4** <br> klo. 23:59 |
+| **35** <br> 24.-30.8 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.14-16|  -  |  -  |  **Palautus 5** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59  |
+| **36** <br> 31.8-6.9 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA***<br>klo.14-16| **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |
