@@ -28,7 +28,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Aikataulu
 
-Pajan tarkempi aikataulu määritellään kurssin alkaessa. Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta.
+**Paja-ajat ovat luonnostelmia.** Pajan tarkempi aikataulu määritellään kurssin alkaessa. Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta.
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,3 +38,4 @@ Pajan tarkempi aikataulu määritellään kurssin alkaessa. Pajat pidetään [Ex
 | **34** <br> 17.-23.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 4** <br> klo. 23:59 |  -  |  -  |  -  |
 | **35** <br> 24.-30.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 5** <br> klo. 23:59 |  -  |  -  |**Katselmointi 2** <br> klo: 23:59  |
 | **36** <br> 31.8-6.9 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16| **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |  -  |
+*Paja-ajat eivät lopullisia.
