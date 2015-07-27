@@ -1,12 +1,11 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Antti Haapaniemi, Hilla Fred
-% 11.05.2015
+% Nikke Kostiainen
+% 27.07.2015
 
 # Ohjaajat
 
 - Ohjaajat
-	- Antti Haapaniemi -- **Pallero_** -- antti.haapaniemi at helsinki.fi
-	- Hilla Fred -- **hihihi_** -- hilla.Fred at helsinki.fi
+	- Nikke Kostiainen -- **NikG** -- nikke.kostiainen at helsinki.fi
  
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra @ IRCnet
