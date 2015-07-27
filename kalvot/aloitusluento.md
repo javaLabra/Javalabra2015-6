@@ -115,7 +115,7 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline on jo tämän viikon torstaina
-- Kaikki tarvittava löytyy kurssisivulta: <http://github.com/javaLabra/Javalabra2015-5>
+- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2015-6/#/pages/>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
 	 - On suositeltavaa tehdä ensimmäisen deadlinen tehtävät jo täällä.
