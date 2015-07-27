@@ -117,5 +117,7 @@
 - Muistakaa -- ensimmäinen deadline on jo tämän viikon torstaina
 - Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2015-6/#/pages/>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
-- Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
-	 - On suositeltavaa tehdä ensimmäisen deadlinen tehtävät jo täällä.
+- Tulkaa luokan eteen juttelemaan mikäli:
+    - Esitietovaatimukset eivät ole täysin kunnossa
+    - Mielessänne on jokin aihe, josta ette ole täysin varma
+    - Teillä on mitä tahansa muuta kysyttävää
