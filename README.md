@@ -25,6 +25,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 ## Uutisia
 
 * Aloitusluento maanantaina 27.7 klo 14-16 luokassa B221, läsnäolo pakollinen!
+* **(29.7.)** Tämän päivän paja siirretty yläpajaan luokkaan B221.
 
 ### Aikataulu
 
