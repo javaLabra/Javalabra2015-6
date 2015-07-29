@@ -33,7 +33,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **31** <br> 27.7-2.8 |**Aloitustilaisuus**<br>klo.14-16<br>B221|  -  |**PAJA** <br>klo.14-<br>**B221**|  **Palautus 1** <br> klo. 23:59 |  -  |  -  |  -  |
+| **31** <br> 27.7-2.8 |**Aloitustilaisuus**<br>klo.14-16<br>B221|  -  |**PAJA** <br>klo.14-16<br>**B221**|  **Palautus 1** <br> klo. 23:59 |  -  |  -  |  -  |
 | **32** <br> 3.-9.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 2** <br> klo. 23:59 |  -  |  -  |  -  |
 | **33** <br> 10.-16.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 3** <br> klo. 23:59 |  -  |  -  |**Katselmointi 1** <br> klo: 23:59  |
 | **34** <br> 17.-23.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 4** <br> klo. 23:59 |  -  |  -  |  -  |
