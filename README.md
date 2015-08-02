@@ -26,15 +26,16 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 * Aloitusluento maanantaina 27.7 klo 14-16 luokassa B221, läsnäolo pakollinen!
 * **(29.7.)** Tämän päivän paja siirretty yläpajaan luokkaan **B221**. Mahdollisesti myös tulevat pajat siirtyvät, tiedoitusta myöhemmin.
+* **(2.8.)** Siirretään loputkin pajat yläpajaan ja siirretään myös tiistain paja torstaille. Tarkat ajat alempana.
 
 ### Aikataulu
 
-**Paja-ajat ovat luonnostelmia.** Pajan tarkempi aikataulu määritellään kurssin alkaessa. Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta. Demotilaisuudet pidetään alustavasti viikolla 35, tarkemmat ajat määritellään myöhemmin.
+Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **B221**, ellei toisin ilmoiteta. Demotilaisuudet pidetään alustavasti viikolla 35, tarkemmat ajat määritellään myöhemmin.
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **31** <br> 27.7-2.8 |**Aloitustilaisuus**<br>klo.14-16<br>B221|  -  |**PAJA** <br>klo.14-16<br>**B221**|  **Palautus 1** <br> klo. 23:59 |  -  |  -  |  -  |
-| **32** <br> 3.-9.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 2** <br> klo. 23:59 |  -  |  -  |  -  |
+| **32** <br> 3.-9.8 |  - |  -  |**PAJA***<br>klo.14-16|  **Palautus 2** <br> klo. 23:59 <br> **PAJA***<br>klo.13-14|  -  |  -  |  -  |
 | **33** <br> 10.-16.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 3** <br> klo. 23:59 |  -  |  -  |**Katselmointi 1** <br> klo: 23:59  |
 | **34** <br> 17.-23.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 4** <br> klo. 23:59 |  -  |  -  |  -  |
 | **35** <br> 24.-30.8 |  -  |**PAJA***<br>klo.13-14|**PAJA***<br>klo.14-16|  **Palautus 5** <br> klo. 23:59 |  -  |  -  |**Katselmointi 2** <br> klo: 23:59  |
