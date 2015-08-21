@@ -28,6 +28,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 * **(29.7.)** Tämän päivän paja siirretty yläpajaan luokkaan **B221**. Mahdollisesti myös tulevat pajat siirtyvät, tiedoitusta myöhemmin.
 * **(2.8.)** Siirretään loputkin pajat yläpajaan ja siirretään myös tiistain paja torstaille. Tarkat ajat alempana.
 * **(10.8.)** Siirrytään pajailemaan takaisin vapautuneeseen alapajaan BK107.
+* **(21.8.)** Pidetään demotilaisuudet ja pajat alla ilmoitettuina aikoina.
 
 ### Aikataulu
 
