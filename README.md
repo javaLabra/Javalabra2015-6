@@ -43,3 +43,8 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **35** <br> 24.-30.8 |  - |**DEMO/PAJA**<br>klo.16-18|**DEMO/PAJA**<br>klo.16-18| **Palautus 5** <br> klo. 23:59|  -  |  -  |**Katselmointi 2** <br> klo: 23:59  |
 | **36** <br> 31.8-6.9 |  -  |  -  |  -  | **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |  -  |
 
+<!---
+your comment goes here
+and here
+-->
+
